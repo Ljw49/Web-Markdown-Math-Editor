@@ -161,3 +161,16 @@ php -S 0.0.0.0:8080 -t /path/to/www
 
 并没有适配多语言版本。
 This version is not adapted for multiple languages. If you require a version in another language, you can feed `md_editor.php` to a large language model for translation, then deploy it in the same manner.
+
+## 🧾 License
+
+This project is released under the MIT License.
+
+It includes code from the following open-source projects:
+
+- [Parsedown](https://github.com/erusev/parsedown) — MIT License  
+- [KaTeX](https://github.com/KaTeX/KaTeX) — MIT License  
+- [MathJax](https://github.com/mathjax/MathJax) — Apache License 2.0
+  
+All licenses are compatible with MIT and their original copyright notices
+are preserved in the `parsedown/` and `lib/` directory.
