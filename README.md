@@ -1,4 +1,4 @@
-# Web Markdown Math Editor（KaTeX / MathJax 版）
+# Web Markdown Math Editor
 
 一个轻量、高效、完全本地可部署的 **Markdown + 数学公式** 在线编辑器，基于PHP，  
 支持 **KaTeX / MathJax 渲染**、**粘贴上传图片**、**文件打包导出**、**公式转义与 LaTeX 兼容模式** 等功能。  
